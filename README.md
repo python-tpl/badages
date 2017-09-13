@@ -7,7 +7,7 @@
 Pull this template to your local machine:
 
 ```
-tpl pull badages
+> tpl pull badages
 
 ```
 
